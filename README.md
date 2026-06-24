@@ -29,4 +29,13 @@ python main.py
 - Shows churn distribution graph
 
 ## 💡 Business Use Case
+## 📊 Sample Output
+
+### Input
+- Age: 25  
+- Monthly Charges: 500  
+- Tenure: 12  
+
+### Output
+✅ Customer is likely to STAY
 Helps companies identify customers likely to leave and improve retention strategies.
