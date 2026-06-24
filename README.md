@@ -28,5 +28,5 @@ python main.py
 - Predicts customer churn
 - Shows churn distribution graph
 
-## 💡 Use Case
-Helps businesses identify customers at risk of leaving and take preventive actions.
+## 💡 Business Use Case
+Helps companies identify customers likely to leave and improve retention strategies.
