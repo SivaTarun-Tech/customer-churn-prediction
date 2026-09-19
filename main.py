@@ -1,4 +1,4 @@
-"""Customer Churn Prediction System (IBM Telco Customer Churn dataset)
+"""Customer Churn Prediction System 
 
 Steps: load data -> clean -> explore -> train -> evaluate -> predict.
 Run with:  python main.py
