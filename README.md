@@ -4,7 +4,7 @@ A Python project that predicts whether a telecom customer is likely to churn (le
 
 ## Dataset
 
-IBM Telco Customer Churn sample dataset (also available on Kaggle as "Telco Customer Churn").
+ Customer Churn sample dataset :
 
 - 7,043 customers and 21 columns
 - Target: `Churn` (Yes/No)
@@ -94,12 +94,8 @@ python main.py
 ## Project files
 
 - `main.py`: data cleaning, analysis, model training, evaluation and prediction
-- `data.csv`: IBM Telco Customer Churn dataset
+- `data.csv`: Churn dataset
 - `requirements.txt`: Python libraries needed
-- `churn_distribution.png`: churn distribution and churn by contract charts
+- `churn_distribution.png`: churn distribution and churn by charts
 
-## Possible next steps
 
-- Handle class imbalance (class weights) to improve churn recall
-- Compare with other models such as Random Forest
-- Build a Power BI dashboard from the same data
